@@ -1,0 +1,8 @@
+.ui.segment label{
+    position: relative;
+    top: -5px;
+    left: 33%;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
